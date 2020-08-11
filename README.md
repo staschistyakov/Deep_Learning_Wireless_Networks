@@ -3,7 +3,7 @@ Final year project (BEng Electronic Engineering with Management): Applications o
 
 This project was based around improving the results of previously published research paper (available at: https://ieeexplore.ieee.org/document/8227766/figures#figures) through
 a thorough process of hyperparameters tuning and using the latest advances in training deep neural networks (cyclical learning rates, AdamW, AMSGrad).
-The project was completed towards the Bachelor of Engineering degree at King's College London and achieved a high-level result of 84% (First Class). The Jupyter notebooks
+The project was completed towards the Bachelor of Engineering degree at King's College London and achieved a strong result of 84% (First Class). The Jupyter notebooks
 available in this repository demonstrate the full training and testing processes for different network scenarios (details available in the pdf file in the repository). 
 
 Abstract: Efficient resource allocation in wireless networks is usually achieved by running iterative
