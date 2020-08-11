@@ -1,4 +1,4 @@
-# deep_learning_wireless_networks
+# Deep_Learning_Wireless_Networks
 Final year project (BEng Electronic Engineering with Management): Applications of Deep Learning in Resource Allocation in Wireless Networks.
 
 This project was based around improving the results of previously published research paper (available at: https://ieeexplore.ieee.org/document/8227766/figures#figures) through
